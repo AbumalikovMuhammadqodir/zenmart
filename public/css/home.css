@@ -1,0 +1,38 @@
+body {
+}
+
+.navbar_freme {
+  position: relative;
+  width: 100%;
+  height: 145px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #443297;
+}
+
+.contayner {
+  position: relative;
+  padding: 20px 0px 14px;
+  width: 1320pxs;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.navber_top {
+  position: relative;
+  width: 100%;
+  height: 50px;
+}
+
+.navber_top a img {
+  height: 36px;
+}
+
+.navbar_bott {
+  position: relative;
+  width: 100%;
+  height: 50px;
+  background-color: blue;
+}
