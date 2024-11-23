@@ -11,9 +11,9 @@ p {
   margin: 0;
 }
 
-.contayner {
+.container {
   position: relative;
-  width: 1320pxs;
+  width: 1320px;
   height: auto;
   display: flex;
 }
@@ -29,7 +29,7 @@ p {
   background-color: #443297;
 }
 
-.navbar_freme .contayner {
+.navbar_freme .container {
   padding: 20px 0px 14px;
   flex-direction: column;
 }
